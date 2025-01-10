@@ -151,9 +151,7 @@ def insertion_sort(draw_info, ascending=True):
 			yield True
 
 	return lst
-
-def bubbleSort: 
-   
+ 
 
 
 def main():
